@@ -26,7 +26,7 @@ $(document).ready(function() {
 
             // Fire off the request to /form.php
             ongoingRequest = $.ajax({
-                url: "https://script.google.com/macros/s/AKfycbwD2NMxXg_nMBALJiGUAKabK93faSSdE53KWBLrEMvNAVkL1oKE0NcGMdb9lr66u0WRtQ/exec",
+                url: "https://script.google.com/macros/s/AKfycbw0Hwjiq-r5Pgfhm0JUGC7SDJf864Q4HDVTUR0c08uAsqbvvr8GabGztTNojPlZQPWr/exec",
                 type: "post",
                 data: serializedData
             });
